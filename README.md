@@ -13,6 +13,10 @@ of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000
 
 Find the 10001st Prime number
 
+### Problem3.go
+
+Write a program that accepts a user inputted string and prints its reverse.
+
 #### Resources
 
 http://www.newthinktank.com/2015/02/go-programming-tutorial/
