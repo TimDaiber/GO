@@ -2,10 +2,11 @@ package main
 
 import "fmt"
 
-func main()  {
+func main2()  {
     
     var sum int;
 
+lsk
     for i := 0;i  <= 100 ; i++ {
         if i % 3 ==0 {
             sum = sum + i;
