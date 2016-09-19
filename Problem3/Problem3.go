@@ -26,6 +26,9 @@ var bla string
     fmt.Println(Rev(bla))
 }
 
+//http://stackoverflow.com/questions/1752414/how-to-reverse-a-string-in-go
+
+
 func Rev (s string) string {
     runes := []rune(s)
     for i,j :=0, len(runes)-1; i<j;i,j=i+1,j-1{
